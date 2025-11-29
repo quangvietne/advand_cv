@@ -19,11 +19,15 @@
 - Làm slide thuyết trình
 ---
 
-# Cacshs tải dữ liệu
+# Cách tải dữ liệu
 ## Dữ liệu đầy đủ: https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset
 
 ## Dữ liệu trên kaggle: https://www.kaggle.com/datasets/pandrii000/hituav-a-highaltitude-infrared-thermal-dataset
 
+# Cách tổ chức thư mục :
+- notebook ( nơi chứa các file notebook chạy code)
+- data/HIT-UAV-Infrared-Thermal-Dataset ( nơi chữa dữ liệu)
+ 
 # Kịch bản thực nghiệm
 - chọn mô hình cần thử nghiệm (backbone + phiên bản yolov8/yolov10/yolov11)
 - chuẩn bị dữ liệu (dataloader)
