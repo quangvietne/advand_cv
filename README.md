@@ -6,7 +6,7 @@
 - Chuẩn bị dataloader, kiểm tra tính nhất quán của dữ liệu.
 - Thử nghiệm Backbone EfficientNet cho YOLOv8.
 - Thử nghiệm YOLOv11 trên bộ dữ liệu
-- Làm report báo cáo phần 
+- Làm report báo cáo 
 ## 2. Nguyễn Thừa Tuân 
 - Thử nghiệm backbone MobileNet cho YOLOv8.
 - Thử nghiệm backbone MobileNet cho YOLOv10.
